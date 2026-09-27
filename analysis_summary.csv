@@ -1,0 +1,8 @@
+Metric,Value
+Original rows,114223
+Columns,18
+Exact duplicates,83618
+Rows after deduplication,30605
+Unique product IDs,30604
+Unique proprietary names,11008
+Unique labelers,1413
